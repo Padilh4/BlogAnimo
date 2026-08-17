@@ -1,0 +1,107 @@
+@import url('https://fonts.cdnfonts.com/css/marykate');
+@import url('https://fonts.cdnfonts.com/css/adlam-display');
+
+
+/* ==================== TÍTULO ==================== */
+
+.Titulo {
+    color: #c70452;
+    font-size: 4rem;
+    font-family: 'MaryKate', sans-serif;
+    text-align: center;
+}
+
+
+/* ==================== MENU ==================== */
+
+.menu {
+    background-color: #c70452;
+    text-align: center;
+    padding: 10px;
+    font-size: 2rem;
+    font-family: 'MaryKate', sans-serif;
+    word-spacing: 100px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    margin: 0 20px;
+}
+
+
+/* ==================== CONTEUDO ==================== */
+
+.Top10 {
+    padding: 2%;
+    text-align: center;
+    font-family: 'ADLaM Display', sans-serif;
+}
+
+.top-list {
+    align-items: center;
+}
+
+.primeirocard {
+    margin: 4%;
+    padding: 3%;
+    display: flex;
+    text-align: center;
+}
+
+.segundocard {
+    margin: 4%;
+    padding: 3%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+
+/* ==================== IMAGENS ==================== */
+
+.primeirocard img {
+    border: 6px solid #c70452;
+    border-radius: 5%;
+    width: 300px;
+}
+
+.segundocard img {
+    border: 6px solid #c70452;
+    border-radius: 5%;
+    width: 300px;
+}
+
+
+/* ==================== LISTAS E LINKS ==================== */
+
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #c70452;
+}
+
+
+
+
+
+/* ==================== RODAPÉ ==================== */
+
+.rodape {
+    background-color: #c70452;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+    font-family: 'ADLaM Display', sans-serif;
+    color: white;
+}
+
+.rodape a {
+    text-decoration: none;
+    color: white;
+    margin: 0 15px;
+}
+
